@@ -7,4 +7,4 @@
 - sudo docker build -t docker-node .
 
 ## comando para rodar o container docker
-- sudo docker run -p 3000:7001 -d --name nodejs-container docker-node
+- sudo docker run -p 3000:7001 -d docker-node
